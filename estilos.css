@@ -1,0 +1,18 @@
+.imagen{
+    border: solid 3px black;
+}
+
+.tabla{
+    border: 2px solid black;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+tr, td{
+    border: solid 1px black;
+}
+
+.error{
+    background-color: red;
+}
